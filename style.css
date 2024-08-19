@@ -1,0 +1,22 @@
+.container{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.couleur{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px double red;
+    box-shadow: 2px 2px 2px 2px rgb(107, 120, 115);
+    cursor: pointer;
+}
